@@ -1,0 +1,15 @@
+C:\Desarrollo\Otros\Solution\CrossCutting\bin\Debug\net5.0\CrossCutting.deps.json
+C:\Desarrollo\Otros\Solution\CrossCutting\bin\Debug\net5.0\CrossCutting.runtimeconfig.json
+C:\Desarrollo\Otros\Solution\CrossCutting\bin\Debug\net5.0\CrossCutting.runtimeconfig.dev.json
+C:\Desarrollo\Otros\Solution\CrossCutting\bin\Debug\net5.0\CrossCutting.dll
+C:\Desarrollo\Otros\Solution\CrossCutting\bin\Debug\net5.0\ref\CrossCutting.dll
+C:\Desarrollo\Otros\Solution\CrossCutting\bin\Debug\net5.0\CrossCutting.pdb
+C:\Desarrollo\Otros\Solution\CrossCutting\obj\Debug\net5.0\CrossCutting.csproj.AssemblyReference.cache
+C:\Desarrollo\Otros\Solution\CrossCutting\obj\Debug\net5.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Otros\Solution\CrossCutting\obj\Debug\net5.0\CrossCutting.AssemblyInfoInputs.cache
+C:\Desarrollo\Otros\Solution\CrossCutting\obj\Debug\net5.0\CrossCutting.AssemblyInfo.cs
+C:\Desarrollo\Otros\Solution\CrossCutting\obj\Debug\net5.0\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Otros\Solution\CrossCutting\obj\Debug\net5.0\CrossCutting.dll
+C:\Desarrollo\Otros\Solution\CrossCutting\obj\Debug\net5.0\ref\CrossCutting.dll
+C:\Desarrollo\Otros\Solution\CrossCutting\obj\Debug\net5.0\CrossCutting.pdb
+C:\Desarrollo\Otros\Solution\CrossCutting\obj\Debug\net5.0\CrossCutting.genruntimeconfig.cache
